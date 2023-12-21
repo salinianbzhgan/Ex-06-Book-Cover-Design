@@ -142,5 +142,5 @@ CODE
 </html>
 ```
 OUTPUT
+![Screenshot 2023-12-20 103014](https://github.com/salinianbzhgan/Ex-06-Book-Cover-Design/assets/145742862/e00ebfa1-fbbc-4803-9f44-988599b69b1a)
 
-![Alt text](<Screenshot 2023-12-20 103014.png>)
